@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxzeemum
-- 👀 I’m interested in learning big data analysis
-- 🌱 I’m currently learning python and getting used to ubuntu os
-- 💞️ I’m looking to collaborate on any sql platform
+- 👀 I’m interested in learning Software Engineering
+- 🌱 I’m currently learning python and Java
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me at samuelsetemijp@gmail.com
 
 <!---
